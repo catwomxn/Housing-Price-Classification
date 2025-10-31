@@ -51,5 +51,5 @@ To develop a **binary classification model** that categorizes houses based on th
 ## Author
 **Andrea** — Data-driven Computer Science graduate passionate about analytical modeling and intelligent systems.
 
-## 🪪 License
+## License
 This project is covered under the **Portfolio Use License** (see LICENSE file for details).
