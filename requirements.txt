@@ -1,0 +1,6 @@
+# Housing Price Classification using Machine Learning
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
